@@ -1,0 +1,7 @@
+# Data Files
+*.pickle
+*.csv
+*.json
+
+# Compiled Python
+*.pyc
